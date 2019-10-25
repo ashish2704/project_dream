@@ -1,5 +1,5 @@
-# Ashish Dream Project 
+# Ruby project
 
-This is first application by Ashish 
+This is first application on Ruby
 
 by Ashish Mohan 
